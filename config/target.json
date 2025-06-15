@@ -1,0 +1,14 @@
+{
+    "ServerConfig": {
+        "Server1": {
+            "host": "IP Address(aaa.bbb.ccc.ddd)",
+            "port": 27021,
+            "password": "Rcon password"
+        },
+        "Server2": {
+            "host": "IP Address(aaa.bbb.ccc.ddd)",
+            "port": 27022,
+            "password": "Rcon password"
+        }
+    }
+}

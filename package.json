@@ -1,0 +1,17 @@
+{
+  "name": "discord_command_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord_command_bot": "file:",
+    "discord.js": "^14.19.3",
+    "rcon": "^1.1.0"
+  }
+}

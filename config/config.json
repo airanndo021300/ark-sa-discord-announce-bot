@@ -1,0 +1,7 @@
+{
+    "LISTENER": {
+        "CLIENT_ID": "Discord ApplicationID",
+        "TOKEN": "Discord bot token"
+    },
+    "GUILD_ID": "target Discord channel ID"
+}
